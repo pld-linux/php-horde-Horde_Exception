@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	0e8623f62cabc1f8a44c554841f1c155
-URL:		http://pear.horde.org/package/Horde_Exception/
+URL:		https://github.com/horde/horde/tree/master/framework/Exception/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
