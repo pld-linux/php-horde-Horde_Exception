@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Exception Handler
 Name:		php-horde-Horde_Exception
-Version:	1.0.7
+Version:	1.0.8
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	564b2e2997188d295bb5f84a85c37793
+# Source0-md5:	9043a51d6868faf8673e24b5161f8c8f
 URL:		https://github.com/horde/horde/tree/master/framework/Exception/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
