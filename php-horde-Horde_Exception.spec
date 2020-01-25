@@ -2,7 +2,6 @@
 # - translations to system dir
 %define		status		stable
 %define		pearname	Horde_Exception
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Exception Handler
 Name:		php-horde-Horde_Exception
 Version:	1.0.9
